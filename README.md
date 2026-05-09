@@ -7,6 +7,7 @@
 - SmartRCへのリアルタイムアクセスなし
 - CSV内容はHTML内のJSONとして埋め込み
 - 取得件数: 全3開催・36R・495頭
+- ML予測付与: 438頭
 
 ## GitHub Pages
 
