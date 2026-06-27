@@ -1,16 +1,18 @@
-# SmartRC 2026-06-21 Preview
+# SmartRC 2026-06-27 Preview
 
-2026-06-21分だけを確認するための静的プレビューページです。
+2026-06-27分だけを確認するための静的プレビューページです。
 
 - 公開ページ本体: `index.html`
+- 本番公開URL: https://poq-preview-webpage.vercel.app/
+- GitHub Pages副経路: https://rs517.github.io/poq-preview-webpage/
 - サーバー処理なし
 - SmartRCへのリアルタイムアクセスなし
 - CSV内容はHTML内のJSONとして埋め込み
-- 取得件数: 全3開催・36R・501頭
+- 取得件数: 全3開催・36R・448頭
 
-## GitHub Pages
+## Deployment
 
-このrepositoryのGitHub Pagesを `main` branch / root で有効化すると、`index.html` がそのまま公開されます。
+このrepositoryの `main` branchへpushすると、Vercelが静的HTMLを公開します。GitHub Pagesも `main` branch / root で有効化されていますが、共有URLはVercelを正とします。
 
 ## ローカル確認
 
