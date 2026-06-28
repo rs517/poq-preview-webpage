@@ -1,6 +1,6 @@
-# SmartRC 2026-06-27 Preview
+# SmartRC 2026-06-28 Preview
 
-2026-06-27分だけを確認するための静的プレビューページです。
+2026-06-28分だけを確認するための静的プレビューページです。
 
 - 公開ページ本体: `index.html`
 - 本番公開URL: https://poq-preview-webpage.vercel.app/
@@ -8,7 +8,7 @@
 - サーバー処理なし
 - SmartRCへのリアルタイムアクセスなし
 - CSV内容はHTML内のJSONとして埋め込み
-- 取得件数: 全3開催・36R・448頭
+- 取得件数: 全3開催・36R・463頭
 
 ## Deployment
 
